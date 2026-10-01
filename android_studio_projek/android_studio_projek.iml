@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../PAB1_TugasKelompok_SI5A/tugaskelompok_pab1/android_studio_projek">
+      <excludeFolder url="file://$MODULE_DIR$/../PAB1_TugasKelompok_SI5A/tugaskelompok_pab1/android_studio_projek/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/../PAB1_TugasKelompok_SI5A/tugaskelompok_pab1/android_studio_projek/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/../PAB1_TugasKelompok_SI5A/tugaskelompok_pab1/android_studio_projek/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
